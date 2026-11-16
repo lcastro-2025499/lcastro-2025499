@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets\GithubProfile.gif" alt="Kirby animation" width="100%" />
+  <img src="assets\GithubProfile.webp" alt="Kirby animation" width="100%" />
 </div>
-<p data-importer="text" align="center">Have a coffee while the GIF loads c: ☕</p>
+<p data-importer="text" align="center">Have a coffee while the animation loads c: ☕</p>
 
 <h1 data-importer="text" align="left">📈 Stats</h1>
 
